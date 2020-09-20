@@ -1,5 +1,7 @@
 # Toontown Level Editor
-Working version of Disney's Toontown Level Editor, which is found in Panda3D 1.6.2.
+NOTE: This is an archived repository containing the old source of the Toontown Level Editor, which is found in Panda3D 1.6.2.
+It was made obsolete by the recent [Anesidora](https://github.com/satire6/Anesidora) leak release.  You should be better off
+using the updated and more stable editor found through [Drew's Toontown Open Level Editor Project.](https://github.com/OpenToontownTools/TTOpenLevelEditor)
 
 # This repository contains:
 - Heavily modified Panda3D that can import "libotp" and "libtoontown" (contains DNA parser for the editor).
